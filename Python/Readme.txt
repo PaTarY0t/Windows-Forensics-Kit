@@ -26,7 +26,8 @@
 
               Extract relevant information from the Registry
 
-
+          You see the path.txt file? Add some path but be careful If you don't understand it don't run it
+                             This is not for newbies ^_*
               
 
 
