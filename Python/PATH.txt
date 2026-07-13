@@ -1,0 +1,19 @@
+PATH = r"SYSTEM\ControlSet001\Enum\USBSTOR"
+
+PATH = r"SOFTWARE\Microsoft\Windows\CurrentVersion\Run"
+
+PATH = r"SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles"
+
+PATH = r"SYSTEM\CurrentControlSet\Control\ComputerName"
+
+PATH = r"SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RunMRU"
+
+PATH = r"SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs"
+
+PATH = r"SOFTWARE\Microsoft\Internet Explorer\TypedURLs"
+
+PATH = r"SYSTEM\MountedDevices"
+
+PATH = r"SOFTWARE\Microsoft\Windows\CurrentVersion\Run"
+
+PATH = r"SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall"
