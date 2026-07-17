@@ -10,4 +10,4 @@ cursor.execute("SELECT url FROM network_action_predictor")
 for row in cursor.fetchall():
     print(row[0])
 
-    conn.close
+    conn.close()
